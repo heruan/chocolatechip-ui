@@ -1,0 +1,20 @@
+{
+    "name": "chocolatechip-ui",
+    "description": "A Compact JavaScript Framework for Mobile Web Apps",
+    "version": "3.0.6",
+    "license": "BSD",
+    "main": [
+        "chui/chui.js",
+        "chui/chui.android.css",
+        "chui/chui.ios.css",
+        "chui/chui.win.css"
+    ],
+    "depencencies": {
+        "jquery": ">=2.0.3"
+    },
+    "readme": "README.md",
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/heruan/chocolatechip-ui.git"
+    }
+}
